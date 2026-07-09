@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kibret Mulugeta
+# 👋 Hello, I'm Kibret Mulugeta
 
 🎓 AI Engineer | Medical Imaging Researcher | Neuro-Inspired Optimization  
 📍 Addis Ababa, Ethiopia | 🌍 Open to Global Research Collaboration  
